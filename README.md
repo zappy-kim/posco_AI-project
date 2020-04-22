@@ -6,7 +6,9 @@
 
 ## 모델 학습결과
 - Cycle GAN 
-![CycleGAN](https://user-images.githubusercontent.com/59900752/79945706-60682980-84a9-11ea-842a-7fc45fa5f154.gif)
+![CycleGAN](https://user-images.githubusercontent.com/59900752/79945706-60682980-84a9-11ea-842a-7fc45fa5f154.gif){: width="50%" height="50%"}{: .center}
+
 
 - Today GAN
-![TodayGAN](https://user-images.githubusercontent.com/59900752/79945746-78d84400-84a9-11ea-8fa1-e919a3a81079.gif)
+
+![TodayGAN](https://user-images.githubusercontent.com/59900752/79945746-78d84400-84a9-11ea-8fa1-e919a3a81079.gif){: width="50%" height="50%"}{: .center}

@@ -1,1 +1,1 @@
-# [posco]_AI-project
+# [posco] AI-project
